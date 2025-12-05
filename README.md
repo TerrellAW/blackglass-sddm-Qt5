@@ -10,6 +10,7 @@ This is a backport of the [original BlackGlass theme](https://www.opencode.net/p
 - Updated QML imports from Qt6 to Qt5 syntax
 - Fixed arrow function syntax for Qt5 compatibility
 - Modified Main.qml and ComboBox.qml
+- Added new DigitalSegmented font
 
 ## Installation
 
