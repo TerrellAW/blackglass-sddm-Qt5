@@ -42,7 +42,7 @@ Rectangle {
 
     FontLoader {
         id: clockFont
-        source: "./assets/boycott.ttf"
+        source: "./assets/DigitalSegmented.pcf.gz" // For original font: "./assets/boycott.ttf"
     }
 
     Image {
