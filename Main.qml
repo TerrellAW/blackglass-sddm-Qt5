@@ -37,7 +37,7 @@ Rectangle {
 
     FontLoader {
         id: textFont
-        source: "./assets/HelmetNeue-Regular.otf"
+        source: "./assets/DigitalSegmented.pcf" // Change to "./assets/HelmetNeue-Regular.otf" for original font
     }
 
     FontLoader {
